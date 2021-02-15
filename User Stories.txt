@@ -1,0 +1,11 @@
+User stories 
+1.	As a player, I would like to play a memory game so that I can have some relaxing time and improve my memory skills. 
+2.	As a player, I would like to have 20 sets of cards displayed facing down so that I can start the game. 
+3.	As a player, I would like to select 1 set of cards so that I can see the cards. 
+4.	As a player, I would like the cards to be displayed for 10 seconds so that I can memorize the cards. 
+5.	As a player, I would like the cards to be removed so that I know I have found the matching ones successfully.
+6.	As a player, I would like the cards to be flipped back so that I know I did not find the matching ones and need to reselect again. 
+7.	As a player, I would like the cards to be all removed so that the game can end. 
+8.	As a player, I would like the system to record the time taken to complete the game so that I know if it takes me a long time to complete the game. 
+9.	As a player, I would like the system to ask me if I want to continue so that I can restart or quit the game. 
+10.	As a player, I would like the system to generate a report of the time taken for all the games I played so that I know if my memory skills have been improved. 
